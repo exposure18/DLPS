@@ -1,5 +1,6 @@
 Deep Learning Packet Sniffer
 
+Make sure you download Ncap
 <br></br>
 This project, developed in Python using an IDE like PyCharm, is a Cyber Security Final Year Project focused on real-time network traffic analysis. It features a user-friendly GUI that acts as a packet sniffer, capturing live network data. The core functionality involves a Deep Learning model that analyzes the captured packet features to classify traffic as either "normal" or an "attack".
 
